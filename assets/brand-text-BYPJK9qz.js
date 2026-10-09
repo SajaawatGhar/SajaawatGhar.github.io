@@ -1,0 +1,1 @@
+import{f as e,v as t}from"./useLocale-BEuItpnd.js";var n=t(e(),1);function r({children:e}){return e}r.propTypes={children:n.default.node,logo:n.default.bool};export{r as t};

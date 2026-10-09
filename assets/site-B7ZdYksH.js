@@ -1,0 +1,1 @@
+var e={name:`Sajaawat Ghar`,email:``,instagramUrl:`https://www.instagram.com/sajaawat_ghar/`,instagramDmUrl:`https://ig.me/m/sajaawat_ghar`,facebookUrl:`#`,pinterestUrl:`#`,linkedinUrl:`#`,whatsappDisplay:``,whatsappNumber:``,whatsappUrl:``,url:`https://sajaawatghar.com`.replace(/\/+$/,``)};export{e as t};
